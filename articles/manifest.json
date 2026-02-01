@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-02-01T12:00:00Z",
+  "articles": [
+    {
+      "id": "intro-ia",
+      "filename": "introduction-intelligence-artificielle.md",
+      "title": "Introduction à l'Intelligence Artificielle",
+      "category": "Fondamentaux",
+      "difficulty": "beginner",
+      "estimatedTimeMinutes": 10,
+      "tags": ["IA", "Introduction", "Fondamentaux", "Débutant"],
+      "author": "Dongui Flow",
+      "version": 1,
+      "lastModified": "2025-02-01T12:00:00Z"
+    },
+    {
+      "id": "expliquer-ia",
+      "filename": "comment-bien-expliquer-ia.md",
+      "title": "Comment bien expliquer à une IA",
+      "category": "Prompts",
+      "difficulty": "beginner",
+      "estimatedTimeMinutes": 8,
+      "tags": ["Prompts", "Communication", "ChatGPT", "Débutant"],
+      "author": "Dongui Flow",
+      "version": 1,
+      "lastModified": "2025-02-01T12:00:00Z"
+    }
+  ]
+}
